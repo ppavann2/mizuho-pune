@@ -1,0 +1,61 @@
+On Fri, Sep 18, 2026 at 1:45 PM Santhosha Pachipulusu <santhosha.p@technogenindia.com> wrote:
+Hi Pavan,
+
+Please find the below JD for Senior Window administration with BigFix - NTT DATA.
+
+ 
+
+Description:
+
+ 
+
+Sr Windows Administrator
+
+10+ years of Experience- 1500 to 1800/hr
+
+Must need -
+
+1: Windows image design, implement, deployment, and testing. Designing and creating Golden Image for both Windows and Linux
+
+2: Big Fix (Should have in-depth knowledge)
+
+
+Qualication : Bachelors degree in B Tech, or related field (or equivalent experience). 10+ years of Experience
+
+ 
+
+Senior Developer for Windows OS administration and image creation Arial, Helvetica, , Arial, Helvetica,
+
+The Senior Systems Programming Analyst serves as the subject matter expert (SME) responsible for the engineering, implementation, and distribution of Windows OS images across the enterprise.
+
+This role manages the configurations and version control of both server and client operating systems along with third party applications included with base OS images.
+
+Expert in creating Windows Operating system images for both server and client (8+ Years)
+
+ Expert with PowerShell, Chocolatey, and Boxstarter (8+ Years) •    
+
+Advanced knowledge with WSUS and Nexus servers (5+ Years).
+
+ Expert with PowerShell based Windows Desired State Configuration (8+ Years)
+
+Expert with developing scripts and packages to be deployed via BigFix (8+ Years)
+
+Expert with browser administration and configuration for Microsoft Edge and Google Chrome (8+ Years).
+
+Advance ability to create professional communications for enterprise-wide audiences by utilizing ServiceNow’s communication distribution mechanisms along with change management tools/process for infrastructure/configuration changes and enterprise deployments (5+ Years) Arial, Helvetica,
+
+•    Advance knowledge of Microsoft ARC and the deployment of ESU’s  (5+ Years)[br Arial, Helvetica,•    Expert with building WinZip installation packages and managing configuration settings (8+ Years)
+
+•    Advance ability to produce documents for audits such as SOX, PCI, and CRAF (8+ Years)
+
+•    Advance ability to create reports within Tanium (5+ Years)
+
+•    Advance ability to create PowerBI dashboards (5+ Years), Arial, Helvetica, sans-serif; font-size:
+
+•    Advance knowledge of both Microsoft Intune and Defender (5+ Years) [•    Advanced Project management skills (5+ Years)
+
+•    Excellent communication and interpersonal skills •    Strong problem-solving and analytical abilities
+
+•    Detail-oriented with strong organizational skills
+
+•    Must be able to be part of off hour on-call support rotation

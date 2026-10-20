@@ -1,0 +1,56 @@
+
+Kiran Deshmukh
+
+  • 1st
+
+Senior Associate @ LTM
+
+2w • 
+
+
+
+Dear Folks,
+We are currently hiring for the position of Windows Directory Services ( Active Directory / PKI ).
+📍 Location: Hyderabad and Bangalore
+💼 Experience: [4-10 Years]
+🕒 Employment Type: Full-Time
+Note: - Shift:- Only Night Shifts. 
+
+Mandatory Skills
+PKI
+Group Policy - Troubleshooting
+Domain Controller
+AD Replication
+Account Lockout
+FSMO Roles functionality of them.
+GPupdate gpupdate /force
+Authentication in AD (Kerberos 3 phase ticketing)
+NTLM
+ 
+Key Skills:-
+
+Domain Controller promotion and restore. 
+Group Policy, design, management and troubleshooting.
+AD Replication, Site, Sitelinks, and Bridgehead Servers      
+Active Directory Authentication, Kerberos and NTLM
+Active Directory Domain Trust, Trust Types
+Account Lockout, event ID validation and troubleshooting.
+User Profile, Types of Profiles, and troubleshooting
+Windows Time, configuration, and troubleshooting
+Public key infrastructure (PKI), CA hierarchy, Configuration, design, and troubleshooting
+Active Directory Performance, DC high memory, CPU and crash troubleshooting
+DNS Server management including DNS zone migration, design, and configuration 
+·DHCP Server management and IP address management
+FSMO Roles functionality of them.
+Difference between GPupdate gpupdate /force
+Sysvol folder how is it replicated.
+Group policy operational logs, gpsvc logs.
+AD replication, bridgehead server, intersite and intra site replication.
+Authentication in AD(Kerberos 3 phase ticketing, NTLM) delegation in Kerberos and types.
+
+
+If this opportunity interests you, or if you know someone who would be a great fit, please apply through the job post already posted and feel free to share it with your network.
+
+Please send me your CV by email. - Kiran.Deshmukh@ltm.com
+
+#onPremSupport #WindowsServer #PKI #ActiveDirectory #GroupPolicy #FSMO #LTM #Windows #Hyderabad #Bangalore

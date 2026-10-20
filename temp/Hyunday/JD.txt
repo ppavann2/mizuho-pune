@@ -1,0 +1,41 @@
+Person should have hands-on  experience in the following area
+
+ 
+
+o   Windows Active directory and  MS 365 knowledge
+
+ 
+
+o   Mailing concept and technical knowledge
+
+ 
+
+o   Knowledge on server  & storage technology and backup solution and policies,  handling team in server and allied solutions  
+
+ 
+
+o   HPC architecture knowledge   and understand the terminologies and vendor coordination for New project requirement discussion with vendor and project evaluation with report preparation.
+
+ 
+
+o   Knowledge on Network technologies  (  hands-on knowledge will be added advantage )
+
+ 
+
+o   Security products handling ( AV, Endpoints at least ) and various solution of security products and meeting the project requirement solutions ( Ex. IPS, IDS, Encryption, DB security, Domain purchase, SSL etc.. )
+
+ 
+
+o   Strong in Data centre operations and coordination with various team ( Electrical, UPS, Network, AC etc.. )
+
+ 
+
+o   Management reporting ( report preparation and handling team management )
+
+ 
+
+o   Basic Knowledge on SAP system and terminology about SAP and its solution ( for project co-operation )
+
+ 
+
+o   Monitoring solutions and troubleshooting of Monitoring devices ( Ex. Solar winds, Network Monitoring tool, server monitoring etc… )

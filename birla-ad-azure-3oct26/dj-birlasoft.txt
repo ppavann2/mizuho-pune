@@ -1,0 +1,22 @@
+Job Description:
+
+AD Device management – Quest Migration 
+
+An AD device management quest job" is not a specific, standardized job title but likely refers to a role focused on Active Directory (AD) and device management, possibly involving migration or modernization efforts, using tools and solutions developed by Quest Software. Responsibilities typically include managing Microsoft Entra ID (Azure AD), designing and implementing device management solutions like Microsoft Intune, automating AD tasks, maintaining AD health, ensuring security, and potentially migrating devices to cloud platforms. 
+
+Key Responsibilities
+
+Active Directory Management: Administering AD domains, forests, Group Policies, and user accounts. 
+Device Management: Implementing and managing mobile device management (MDM) and endpoint management solutions like Microsoft Intune to enroll, configure, and secure devices. 
+Identity and Access Management: Configuring and managing cloud-based identity and authentication services, such as Microsoft Entra ID (formerly Azure AD). 
+Automation and Migration: Using tools to automate AD tasks and assist with migrating users and devices to new platforms, often with a focus on cloud adoption. 
+Security: Ensuring devices and the network are secure and compliant with company policies through patching, security policy implementation, and threat mitigation. 
+System Administration: Performing system administration tasks on Windows systems, including patching and managing applications. 
+Technical Support: Providing Tier 2/3 support for escalated device and user management issues. 
+Key Skills and Tools
+
+Microsoft Technologies: Deep knowledge of Active Directory, Microsoft Intune, Microsoft Endpoint Manager (MECM/SCCM), and Microsoft Entra ID. 
+Quest Solutions: Experience with Quest's Active Directory management and migration solutions, such as Quest On-Demand Migration. 
+MDM/MAM: Expertise in Mobile Device Management (MDM) and Mobile Application Management (MAM). 
+Troubleshooting: Strong ability to diagnose and resolve technical issues related to devices, users, and AD infrastructure. 
+Security Principles: Understanding of security best practices for device and network security.
