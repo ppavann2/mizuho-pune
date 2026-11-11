@@ -1,0 +1,59 @@
+he CV Makeover
+“Act as a senior recruiter with 20 years of experience. Analyse my uploaded CV and rewrite it to make me a standout candidate. Improve my professional summary, achievements and work experience using strong action verbs and measurable results. Make it professional, compelling and ATS-friendly. Do not invent qualifications or experience.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+2️⃣ The ATS Optimiser
+“Act as an Applicant Tracking System (ATS) specialist. Compare my uploaded CV against this job description: [PASTE JOB DESCRIPTION]. Identify missing keywords, skills and qualifications. Optimise my CV to improve its relevance while keeping everything truthful. Give me an estimated match score and explain how to improve it.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+3️⃣ The Dream Job Finder
+“Analyse my CV, experience, skills and career achievements. Identify 10 high-paying job titles I’m qualified for, including opportunities I might be overlooking. Rank them by salary potential, career growth and suitability. Explain why each role matches my background.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+4️⃣ The Recruiter’s Secret Review
+“Act as a hiring manager at a Fortune 500 company. Review my CV as if you had only 10 seconds to decide whether to shortlist me. Identify the 10 biggest weaknesses, explain what might cause rejection and show me exactly how to fix each one.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+5️⃣ The Salary Negotiation Coach
+“Based on my CV, experience and target role of [JOB TITLE] in [LOCATION], help me determine my market value. Research current salary benchmarks, identify my strongest negotiating advantages and write three persuasive salary negotiation scripts to help me secure a better offer.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+6️⃣ The Interview Predictor
+“Act as the hiring manager interviewing me for [JOB TITLE] at [COMPANY]. Analyse my CV and the job description. Predict the 15 most likely interview questions, including difficult behavioural and technical questions. Write strong, personalised sample answers using the STAR method and my actual experience.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+7️⃣ The LinkedIn Profile Optimiser
+“Transform my CV into a powerful LinkedIn profile that attracts recruiters. Create an attention-grabbing headline, keyword-rich About section, optimised work experience descriptions and a list of 20 relevant skills. Position me as a strong candidate for [TARGET ROLE] without exaggerating my experience.”
+Reply
+Kanji Low
+ ·
+ ·
+
+Author
+8️⃣ The 30-Day Dream Job Strategy
+“Act as my personal career strategist. Using my uploaded CV, target role of [JOB TITLE] and preferred location of [LOCATION], create a detailed 30-day job search plan. Include daily actions, networking strategies, recruiter outreach messages, interview preparation and application tracking. Focus on helping me secure more interviews and maximise my chances of receiving a job offer.”
+Reply
